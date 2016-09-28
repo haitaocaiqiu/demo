@@ -5,6 +5,7 @@
 <table id="tbl1" border="1">
     <tr>
         <td>姓名</td>
+        <td>2222</td>
     </tr>
 </table>
 </body>
